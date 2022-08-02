@@ -5,3 +5,8 @@
 |:--------------------:|:------:|
 | Яндекс.Практикум | [см. проекты](https://github.com/LeonidStarykh/Yandex.Practicum) |
 | DeepLearning | [см. проекты](https://github.com/LeonidStarykh/DeepLearning) |
+
+# Алгоритмы
+| ------ | Ссылка |
+|:--------------------:|:------:|
+| Yandex Contest 2.0 | [см. задачи](https://github.com/LeonidStarykh/algorithms/tree/main/yndx_algorithms) |
